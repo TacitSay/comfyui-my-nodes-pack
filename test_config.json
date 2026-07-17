@@ -1,0 +1,7 @@
+{
+    "prompt": "a beautiful landscape, masterpiece, best quality",
+    "negative": "blurry, lowres, worst quality",
+    "steps": 20,
+    "cfg": 8.0,
+    "seed": 42
+}
